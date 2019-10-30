@@ -44,7 +44,6 @@
 			<version>2.3.2</version>
 		</dependency>
 
-
 		<!-- mysql驱动 -->
 		<dependency>
 			<groupId>mysql</groupId>
