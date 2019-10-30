@@ -38,11 +38,7 @@
 		</dependency>
 
 		<!-- jsoup相关依赖 -->
-		<dependency>
-			<groupId>cn.wanghaomiao</groupId>
-			<artifactId>JsoupXpath</artifactId>
-			<version>2.3.2</version>
-		</dependency>
+
 
 
 		<!-- mysql驱动 -->
